@@ -33,3 +33,9 @@ Desenvolver consistência diária e construir um portfólio sólido em programa�
 - Desenvolver pequenos projetos
 
 Atualização feita via branch de estudo diário
+
+### 19/02/2026
+- Criação do repositório
+- Primeiro exercício em Python
+- Criação de Issues
+- Primeira Pull Request
