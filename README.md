@@ -31,3 +31,5 @@ Desenvolver consistência diária e construir um portfólio sólido em programa�
 - Criar mais exercícios
 - Automatizar tarefas simples
 - Desenvolver pequenos projetos
+
+Atualização feita via branch de estudo diário
