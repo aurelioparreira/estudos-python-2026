@@ -37,5 +37,11 @@ Atualização feita via branch de estudo diário
 ### 19/02/2026
 - Criação do repositório
 - Primeiro exercício em Python
+
+Arquivo: exercicio_001.py
+
 - Criação de Issues
 - Primeira Pull Request
+- Implementação de um programa simples para cálculo de média utilizando: entrada de dados (input), listas e funções.
+
+Arquivo: exercicio_002.py
