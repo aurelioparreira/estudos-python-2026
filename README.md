@@ -1,47 +1,60 @@
-# Estudos Python 2026
+# 📊 Estudos em Python e Dados 2026
 
-Repositório dedicado aos meus estudos em Python, com foco em prática diária, automação e desenvolvimento profissional.
+## 📌 Sobre o Projeto
 
-## Objetivo
+Este repositório contém meus estudos práticos em Python e análise de dados, com foco em desenvolvimento de habilidades para atuação na área de dados.
 
-Desenvolver consistência diária e construir um portfólio sólido em programação.
+O projeto é baseado em exercícios diários e evolução contínua.
 
-## Estrutura
+---
 
-- exercicios/: exercícios práticos
-- projetos/: projetos maiores (em construção)
+## 🧠 Objetivo
 
-## Plano da Semana
+Desenvolver habilidades em:
 
-- [ ] Variáveis e entrada de dados
-- [ ] Listas e dicionários
-- [ ] Funções
-- [ ] Condicionais
-- [ ] Laços de repetição
+- Python
+- SQL
+- Análise de Dados
+- Estatística aplicada
+- Estruturação de projetos
 
-## Registro Diário
+---
 
-### 19/02/2026
-- Criação do repositório
-- Primeiro exercício em Python
-- Organização inicial
+## 🐍 Exercícios
 
-## Próximos passos
+Exercícios básicos de Python com foco em lógica, listas, funções e manipulação de dados.
 
-- Criar mais exercícios
-- Automatizar tarefas simples
-- Desenvolver pequenos projetos
+---
 
-Atualização feita via branch de estudo diário
+## 🚀 Projetos
 
-### 19/02/2026
-- Criação do repositório
-- Primeiro exercício em Python
+Área destinada a projetos mais estruturados de análise de dados.
 
-Arquivo: exercicio_001.py
+---
 
-- Criação de Issues
-- Primeira Pull Request
-- Implementação de um programa simples para cálculo de média utilizando: entrada de dados (input), listas e funções.
+## ▶️ Como executar
 
-Arquivo: exercicio_002.py
+No terminal: python exercicios/exercicio_001.py
+
+---
+
+## 📅 Evolução
+
+Projeto em desenvolvimento contínuo.
+
+---
+
+## 📌 Status
+
+Em formação na área de dados.
+
+---
+
+## 👨‍💻 Autor
+
+Aurélio José Parreira
+
+Analista de Dados em formação, com foco em SQL, Python e estatística aplicada.
+
+## 🗂️ Estrutura do Projeto
+
