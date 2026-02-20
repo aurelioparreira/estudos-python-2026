@@ -55,11 +55,3 @@ Em formação na área de dados.
 Aurélio José Parreira
 
 Analista de Dados em formação, com foco em SQL, Python e estatística aplicada.
-
-## 🗂️ Estrutura do Projeto
-
-estudos-python-2026/ 
-│ 
-├── exercicios/ 
-├── projetos/ 
-├── README.md
