@@ -1,88 +1,27 @@
-# 📊 Estudos em Python e Dados 2026
+# 📊 Estudos em Python e Análise de Dados
 
-## 📌 Sobre o Projeto
+## 🎯 Objetivo
+Desenvolver habilidades práticas em análise de dados com foco em projetos reais para atuação profissional.
 
-Este repositório contém meus estudos práticos em Python e análise de dados, com foco em desenvolvimento de habilidades para atuação na área de dados.
-
-O projeto é baseado em exercícios diários e evolução contínua.
-
----
-
-## 🧠 Objetivo
-
-Desenvolver habilidades em:
-
+## 🛠 Tecnologias
 - Python
 - SQL
-- Análise de Dados
-- Estatística aplicada
-- Estruturação de projetos
+- Estatística Aplicada
 
----
-
-## 🐍 Exercícios
-
-Exercícios básicos de Python com foco em lógica, listas, funções e manipulação de dados.
-
----
+## 📂 Estrutura
+- exercicios/: prática de lógica e fundamentos
+- projetos/: aplicações reais
 
 ## 🚀 Projetos
-
-Área destinada a projetos mais estruturados de análise de dados.
-
----
+- Análise de dados simples
+- Cálculo de métricas
 
 ## ▶️ Como executar
-
-No terminal: python exercicios/exercicio_001.py
-
----
+python exercicios/exercicio_001.py
 
 ## 📅 Evolução
-
-Projeto em desenvolvimento contínuo.
-
----
-
-## 📌 Status
-
-Em formação na área de dados.
-
----
+Projeto atualizado diariamente com novos aprendizados.
 
 ## 👨‍💻 Autor
-
-Aurélio José Parreira
-
-Analista de Dados em formação, com foco em SQL, Python e estatística aplicada.
-
----
-
-## 📊 Projeto: Análise de Dados Simples
-
-Projeto desenvolvido em Python para análise básica de dados.
-
-Funcionalidades:
-
-- Entrada de dados
-- Cálculo de média
-- Identificação de maior e menor valor
-
-Arquivo:
-projetos/analise_dados/analise_dados.py
-
----
-
-## 💰 Projeto: Simulador Financeiro
-
-Simulador desenvolvido em Python para cálculo de investimento com juros compostos.
-
-Funcionalidades:
-
-- Valor inicial
-- Aporte mensal
-- Taxa de juros
-- Tempo
-
-Arquivo:
-projetos/simulador_financeiro/simulador_financeiro.py
+Aurélio José Parreira  
+Analista de Dados em formação
