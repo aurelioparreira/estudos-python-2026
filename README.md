@@ -56,6 +56,8 @@ Aurélio José Parreira
 
 Analista de Dados em formação, com foco em SQL, Python e estatística aplicada.
 
+---
+
 ## 📊 Projeto: Análise de Dados Simples
 
 Projeto desenvolvido em Python para análise básica de dados.
