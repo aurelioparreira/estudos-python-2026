@@ -69,4 +69,20 @@ Funcionalidades:
 - Identificação de maior e menor valor
 
 Arquivo:
-projetos/projeto_analise_dados/main.py
+projetos/analise_dados/analise_dados.py
+
+---
+
+## 💰 Projeto: Simulador Financeiro
+
+Simulador desenvolvido em Python para cálculo de investimento com juros compostos.
+
+Funcionalidades:
+
+- Valor inicial
+- Aporte mensal
+- Taxa de juros
+- Tempo
+
+Arquivo:
+projetos/simulador_financeiro/simulador_financeiro.py
