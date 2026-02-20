@@ -1,0 +1,24 @@
+def calcular_investimento(valor_inicial, aporte_mensal, taxa, meses):
+    saldo = valor_inicial
+
+    for i in range(meses):
+        saldo = saldo * (1 + taxa) + aporte_mensal
+
+    return saldo
+
+
+def main():
+    print("=== SIMULADOR FINANCEIRO ===")
+
+    valor_inicial = float(input("Valor inicial: "))
+    aporte = float(input("Aporte mensal: "))
+    taxa = float(input("Taxa mensal (ex: 0.01 para 1%): "))
+    meses = int(input("Quantidade de meses: "))
+
+    resultado = calcular_investimento(valor_inicial, aporte, taxa, meses)
+
+    print("\nValor final:", round(resultado, 2))
+
+
+if __name__ == "__main__":
+    main()
