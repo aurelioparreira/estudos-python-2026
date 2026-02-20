@@ -1,5 +1,5 @@
 def obter_dados():
-    valores = []
+      valores = []
 
     print("Digite 5 valores:")
 
